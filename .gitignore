@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+.env
+*.sqlite3
+trades.db
+
+# Node / React
+node_modules/
+build/
+.env.local
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
